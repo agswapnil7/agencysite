@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&family=Josefin+Sans&family=Shantell+Sans&display=swap');
+*{
+  font-family: 'Exo 2', sans-serif;
+}
+h1,h2,h3,h4,h5{
+  font-family: 'Josefin Sans', sans-serif;
+}
+.container-fluid{
+  padding-left: 0;
+  padding-right: 0;
+  overflow: hidden;
+}
+.abc{
+   background-color: #545454;
+}
+nav i.gg{
+  font-size: 2em;
+}
+nav i.fab:hover{
+  transform: scale(1.20);
+  transition-duration: 0.5s;
+}
+a{
+  text-decoration: none;
+}
+ul li{
+  list-style: none;
+  text-decoration: none;
+}
+.con{
+  margin: auto;
+  width:80%;
+  text-align: center;
+  padding: 30px;
+}
+
+.aa{
+  background-color: #545454;
+  max-height: 800px;
+  background-position: center center;
+  background-size: cover;
+}
+.bb{
+  color: wheat;
+}
+.aa .banner-left{
+  margin: 300px 80px;
+}
+ .banner-left, .banner-right h1{
+ 
+  font-size: 85px;
+}
+
+.aa .btn{
+  border-radius: 100px;
+  font-size: 25px;
+}
+.navbar-nav li:hover  {
+  transform: scale(1.1);
+  text-decoration:underline 2px wheat;
+  transition-duration: 0.5s;
+}
+
+.typewriter {
+  
+  font-size: 7rem;
+}
+.contact{
+  color: wheat;
+}
+.contact .banner-left, .banner-right{
+  margin: 0;
+  text-align: left;
+}
+.contact .banner-right{
+  max-width: 300px;
+}
+.navbar-toggler-white{
+  display: none;
+}
+.hdngs{
+  font-size:50px; 
+  border-bottom: 3px solid;
+  border-bottom-color: skyblue;
+  border-bottom-left-radius: 2000px;
+  border-bottom-right-radius: 2000px;
+ }
+ .rev{
+  border-bottom: 5px solid skyblue;
+ }
+ .services{
+  color: wheat;
+}
+.services .banner-right, .banner-left{
+  text-align: center;
+  margin: 10px;
+}
+.footer{
+  color: wheat; 
+  
+}
+.footer.banner-left{
+  font-size: 20px;
+  text-align: left;
+  max-width: 320px;
+}
+.footer.banner-right{
+  padding-top: 30px;
+  max-width: 880px;
+}
+@media (max-width: 768px) {
+  .navbar-toggler-white{
+    display: none;
+  }
+  .abc{
+    overflow-x: hidden;
+  }
+  
+  .navbar{
+    overflow: hidden;
+  }
+  .headicon i{
+    display: none;
+  }
+  .gg {
+    margin-right: 20px;
+  }
+  .typewriter {
+    font-size: 1.5rem;
+  }
+  .bb{
+    padding-top: 60px;
+  }
+  .foot h1{
+    font-size: 30px;
+  }
+  
+}

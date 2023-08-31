@@ -34,14 +34,8 @@ function About() {
     <h2>Follow Us</h2>
     <p>Connect with us on social media:</p>
 
-    <a href='https://www.facebook.com'>
-    <i className="fab fa-facebook fa-2x text-light"></i>
-    </a>
-    <a href='https://www.instagram.com'>
+    <a href='https://www.instagram.com/yeemail0/' target='blank'>
       <i className="fab fa-instagram fa-2x ms-3 text-light"></i>
-    </a>
-    <a href='https://www.linkedin.com'>
-      <i className="fab fa-linkedin fa-2x ms-3 text-light"></i>
     </a>
     </div>
       </div>

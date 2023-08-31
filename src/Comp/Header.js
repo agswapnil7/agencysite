@@ -33,15 +33,8 @@ function Header() {
           </ul>
         </div>
         <div className='headicon'>
-        
-        <a href ='https://www.facebook.com/profile.php?id=100005384233443' target='blank'>
-          <i className="fab fa-facebook   ms-4 text-light gg"></i>
-        </a>
-        <a href ='https://www.instagram.com/swazy.x7/' target='blank'>
+        <a href ='https://www.instagram.com/yeemail0/' target='blank'>
           <i className="fab fa-instagram  ms-4 text-light gg"></i>
-        </a>
-        <a href ='https://www.linkedin.com/in/swapnil-neupane-486b80229/' target='blank'>
-          <i className="fab fa-linkedin  ms-4 text-light gg"></i>
         </a>
         </div>
         </div>

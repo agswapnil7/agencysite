@@ -17,19 +17,12 @@ function Contact() {
 
 <h5><i class="fas fa-phone"></i> +977 9866402429</h5>
 
-<h5><i class="fas fa-envelope"></i><span style={{fontSize:'19px'}}>yeemailagency@gmail.com</span></h5>
+<h5><i class="fas fa-envelope"></i><span style={{fontSize:'13px',paddingLeft:'5px'}}>yeemailagency@gmail.com</span></h5>
 <br></br>
 <h2>Follow Us</h2>
-    <a href='https://www.facebook.com'>
-    <i className="fab fa-facebook fa-2x text-light"></i>
-    </a>
-    <a href='https://www.instagram.com'>
+    <a href='https://www.instagram.com/yeemail0/' target='blank'>
       <i className="fab fa-instagram fa-2x ms-3 text-light"></i>
     </a>
-    <a href='https://www.linkedin.com'>
-      <i className="fab fa-linkedin fa-2x ms-3 text-light"></i>
-    </a>
-
 
       </div>  
     <div className='banner-right col footer'>     
